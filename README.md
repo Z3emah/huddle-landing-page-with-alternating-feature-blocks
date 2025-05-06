@@ -6,7 +6,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Z3emah/huddle-landing-page-with-alternating-feature-blocks](https://github.com/Z3emah/huddle-landing-page-with-alternating-feature-blocks)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
