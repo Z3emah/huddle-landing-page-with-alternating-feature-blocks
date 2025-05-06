@@ -337,7 +337,7 @@ footer section img{
 }
 @media(min-width: 1500px){
     img{
-        width: 700px;
+        width: 600px;
     }
     p{
         font-size: 2rem;
@@ -347,7 +347,7 @@ footer section img{
         margin-inline: 5%;
     }
     .header-container h1{
-        font-size: 4rem;
+        font-size: 3.5rem;
         width: 100%;
     }
     header .header-btn{
@@ -363,6 +363,6 @@ footer section img{
         width: 50%;
     }
     .information-section p{
-        width: 80%;
+        width: 100%;
     }
 }
