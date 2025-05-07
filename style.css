@@ -244,6 +244,9 @@ footer section img{
     main section{
         padding-inline: 5px;
     }
+    .header-container nav{
+        padding-inline: 0.5rem;
+    }
 } 
 
 @media(min-width:900px){
