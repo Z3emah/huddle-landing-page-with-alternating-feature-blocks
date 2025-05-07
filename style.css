@@ -250,6 +250,7 @@ footer section img{
     }
     .section-heading{
         font-size: 1.5rem;
+        width: 300px;
     }
     main section{
         padding-inline: 5px;
