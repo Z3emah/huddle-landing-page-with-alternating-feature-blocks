@@ -106,7 +106,7 @@ img{
     text-decoration: none;
 }
 .header-btn:hover{
-    opacity: 0.8;
+    opacity: 0.6;
     transition: all 0.1s ease-in-out;
 }
 .section-container{
