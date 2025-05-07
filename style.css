@@ -25,7 +25,7 @@ body{
     background-color: var(--clr-black);
 }
 p{
-    width: 320px;
+    width: 350px;
     font-family: var(--ff-opensans);
     margin-bottom: 1rem;
     color: var(--clr-grayishblue);
@@ -90,7 +90,7 @@ img{
 
 .header-container h1{
     font-size: 28px;
-    width: 300px;
+    width: 370px;
     margin-block: 0.5rem;
 }
  
@@ -134,7 +134,8 @@ main section div{
 
 .section-heading{
     margin-block: 0.5rem;
-    width: 300px;
+    width: 100%;
+    text-align: center;
 }
 
 .clipboard{
