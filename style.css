@@ -238,6 +238,12 @@ footer section img{
         width: 300px;
         font-size: 16px;
     }
+    .header-container h1{
+        font-size: 22px;
+        width: 300px;
+        margin-block: 0.5rem;
+    }
+     
     .section-container{
         padding-inline: 0.8rem;
         padding-bottom: 10rem;
@@ -250,6 +256,10 @@ footer section img{
     }
     .header-container nav{
         padding-inline: 0.5rem;
+    }
+    .nav-btn{
+        padding: 0.3rem 1.3rem;
+        font-size: 12px;
     }
     .header-btn{
         padding-block: 0.5rem;
