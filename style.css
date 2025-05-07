@@ -113,6 +113,7 @@ img{
     display: flex;
     flex-direction: column;
     padding-bottom: 12rem;
+    padding-inline: 2rem;
     gap: 3rem;
     text-align: center;
 }
@@ -120,7 +121,6 @@ main section{
     display: flex;
     flex-direction: column;
     gap: 2rem;
-    margin-inline: 2.5rem;
     padding: 2rem 1rem;
     border-radius: 1.5rem;
     box-shadow: 5px 5px 20px -8px rgba(0, 0, 0, 0.1), -5px -5px 20px -8px rgba(0, 0, 0, 0.1);
@@ -231,15 +231,18 @@ footer section img{
 }
 
 @media(min-width:330px) and (max-width: 499px){
-    main section{
-        margin-inline: 1.5rem;
-    }
     img{
         width: 180px;
     }
     p{
         width: 260px;
         font-size: 16px;
+    }
+    .section-container{
+        padding-inline: 0.8rem;
+    }
+    main section{
+        padding-inline: 5px;
     }
 } 
 
