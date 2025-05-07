@@ -235,17 +235,39 @@ footer section img{
         width: 180px;
     }
     p{
-        width: 260px;
+        width: 300px;
         font-size: 16px;
     }
     .section-container{
         padding-inline: 0.8rem;
+        padding-bottom: 10rem;
+    }
+    .section-heading{
+        font-size: 1.5rem;
     }
     main section{
         padding-inline: 5px;
     }
     .header-container nav{
         padding-inline: 0.5rem;
+    }
+    .header-btn{
+        padding-block: 0.5rem;
+        width: 250px;
+        font-size: 15px;
+    }
+    .clipboard{
+        width: 95%;
+        padding-top: 2.8rem;
+        margin-top: -6rem;
+    }
+    .clipboard h3{
+        font-size: 1.2rem;
+        letter-spacing: 0.8px;
+        line-height: 10px;
+    }
+    .clipboard .header-btn{
+        width: 65%;
     }
 } 
 
